@@ -25,7 +25,7 @@ iniciales.
 | <!-- Enlace de Antoniogm03 --> | | |
 | <!-- Enlace de G M F J --> | | |
 | <!-- Enlace de G P S --> | | |
-| [Enlace de evaanngiil](https://github.com/evaanngiil/PresentCreator/pull/1) | v0.0.2 | |
+| <!-- Enlace de evaanngiil --> | | |
 | [Enlace de blancagiron](https://github.com/blancagiron/SeguraSenior/pull/1) |v0.0.1 |  ✓ |
 | <!-- Enlace de GaelGoncalvesAlba --> | | |
 | <!-- Enlace de abbonno --> | | |
@@ -40,13 +40,13 @@ iniciales.
 | <!-- Enlace de N G P --> | | |
 | <!-- Enlace de Carlosmapego8 --> | | |
 | <!-- Enlace de P B H --> | | |
-| <!-- Enlace de Mario25402 --> | | |
+| <!-- Enlace de Mario25402 --> | [Enlace de Mario25402](https://github.com/Mario25402/Calendar/pull/2) | v0.0.2 |
 | <!-- Enlace de R C P --> | | |
 | <!-- Enlace de mrh117 --> | | |
 | <!-- Enlace de R D R L --> | | |
 | <!-- Enlace de MarioRgzLpz --> | | |
 | <!-- Enlace de R R A --> | | |
-| [Enlace de eigenric](https://github.com/eigenric/lyricfeel/pull/1) | v0.0.2 | |
+| <!-- Enlace de eigenric --> | | |
 | <!-- Enlace de enger2003 --> | | |
 | <!-- Enlace de R S A --> | | |
 | [Enlace de S L K ](https://github.com/wickeet/Tripoli/pull/1)| v0.0.2 | |
